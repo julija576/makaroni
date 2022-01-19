@@ -19,9 +19,13 @@
     <img src="atteli/makaroni3.jfif" alt="attēls">
   </div>
 <br><br>
-  <div class="kaste2">
+   <div class="kaste2">
     <h2> Vairāk informācijas:</h2>
-  <a class="button1" href="vairakinfo.html">Vairāk informācijas</a>
+  <a class="button1" href="vairakinfo.html">ŠEIT</a>
+</div>
+<div class="kaste3">
+<h2> Piesakies jau tagad</h2>
+<a class="button2" href="vairakinfo.html">ŠEIT</a>
 </div>
 </body>
 </html>
