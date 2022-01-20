@@ -1,7 +1,12 @@
+.lielakaste{
+    margin-left:3%;
+    margin-right:3%;
+    background-color:#BCC6CC;
+}
 .kaste1 {
-margin-left:5%;
-margin-right:5%;
-background-color:#49413F;
+    margin-left:5%;
+    margin-right:5%;
+    background-color:#49413F;
     /*display: flex;*/
 }
 .kaste2 {
