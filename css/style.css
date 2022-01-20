@@ -2,22 +2,21 @@
     margin-left:3%;
     margin-right:3%;
     background-color:#BCC6CC;
+    padding:10%;
 }
 .kaste1 {
-    margin-left:5%;
-    margin-right:5%;
+    /*margin-left:5%;
+    margin-right:5%;*/
     background-color:#49413F;
     font-size:45%;
     /*display: flex;*/
 }
 .kaste2 {
-    margin-left:5%;
-    margin-right:40%;
+    /*margin-left:5%;
+    margin-right:40%;*/
     background-color:#797979;
 }
 .flex{
     display: flex;
 }
-img{
-    padding:3%;
-}
+
