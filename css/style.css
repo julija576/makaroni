@@ -4,6 +4,7 @@
     background-color:#BCC6CC;
     padding:10%;
 }
+
 .kaste1 {
     /*margin-left:5%;
     margin-right:5%;*/
@@ -12,15 +13,22 @@
     color:#E5E4E2;
     /*display: flex;*/
 }
+/*.kolonnas{
+    
+}*/
 .kaste2 {
     /*margin-left:5%;
     margin-right:40%;*/
     background-color:#797979;
+    float:left;
+    width:40%;
 }
 .kaste3 {
     background-color:#797979;
+    float:right;
+    width:40%;
 }
-/*.flex{
+/*.k{
     display: flex;
 }*/
 
