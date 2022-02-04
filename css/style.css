@@ -6,8 +6,8 @@
 }
 
 .kaste1 {
-    /*margin-left:5%;
-    margin-right:5%;*/
+    margin-left:5%;
+    margin-right:5%;
     background-color:#49413F;
     font-size:60%;
     color:#E5E4E2;
@@ -22,11 +22,13 @@
     background-color:#797979;
     float:left;
     width:40%;
+    margin-left:5%;
 }
 .kaste3 {
     background-color:#797979;
     float:right;
     width:40%;
+    margin-right:5%;
 }
 /*.k{
     display: flex;
