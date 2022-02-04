@@ -2,7 +2,6 @@
     margin-left:3%;
     margin-right:3%;
     background-color:#BCC6CC;
-    padding:10%;
 }
 
 .kaste1 {
@@ -11,6 +10,7 @@
     background-color:#49413F;
     font-size:60%;
     color:#E5E4E2;
+    padding:10%;
     /*display: flex;*/
 }
 /*.kolonnas{
