@@ -12,7 +12,7 @@ body{
     margin-top:10%;
     background-color:#49413F;
     font-size:60%;
-    color:/*#E5E4E2*/red;
+    /*color:/*#E5E4E2*/red;*/
     padding:10%;
     /*display: flex;*/
 }
