@@ -7,8 +7,6 @@ body{
     margin-bottom:7%;
     margin-top:7%;
     background-color:#49413F;
-    font-size:60%;
-    /*color:/*#E5E4E2*/red;*/
    /* padding:10%;*/
     /*display: flex;*/
 }
@@ -17,17 +15,20 @@ body{
     margin-right:40%;*/
     background-color:#797979;
     float:left;
-    width:40%;
+    width:43%;
     /*margin-left:5%;
     margin-bottom:10%;*/
 }
 .kaste3 {
     background-color:#797979;
     float:right;
-    width:40%;
+    width:43%;
     /*margin-right:5%;
     margin-bottom:10%;*/
 }
 img{
-    padding:5%;
+    padding:3%;
+}
+h1{
+    font-size:20%;
 }
