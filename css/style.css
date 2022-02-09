@@ -3,15 +3,15 @@ body{
 }
 .kastite{
     background-color:#C9C0BB;
-    padding:3%;
+    padding:10%;
 }
 .kaste1 {
-    margin-left:7%;
-    margin-right:7%;
-    margin-bottom:7%;
-    margin-top:7%;
+    margin-left:5%;
+    margin-right:5%;
+    margin-bottom:5%;
+    margin-top:5%;
     background-color:#49413F;
-   padding:10%;
+    padding:10%;
     /*display: flex;*/
 }
 .kaste2 {
