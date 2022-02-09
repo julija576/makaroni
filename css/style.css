@@ -12,6 +12,8 @@ body{
     margin-top:5%;
     background-color:#C9C0BB;
     padding:10%;
+    border-style:solid;
+    border-color:black;
     /*display: flex;*/
 }
 .kaste2 {
@@ -20,6 +22,8 @@ body{
     background-color:#78866B;
     float:left;
     width:43%;
+    border-style:solid;
+    border-color:black;
     /*margin-left:5%;
     margin-bottom:10%;*/
 }
@@ -27,6 +31,8 @@ body{
     background-color:#78866B;
     float:right;
     width:43%;
+    border-style:solid;
+    border-color:black;
     /*margin-right:5%;
     margin-bottom:10%;*/
 }
