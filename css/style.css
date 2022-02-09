@@ -1,13 +1,16 @@
 body{
     background-color:/*#BCC6CC*/blue;
 }
-
+.lielakaste{
+    padding:5%;
+    background-color:brown;
+}
 .kaste1 {
     margin-left:10%;
     margin-right:10%;
     background-color:#49413F;
     font-size:60%;
-    color:#E5E4E2;
+    color:/*#E5E4E2*/red;
     padding:10%;
     /*display: flex;*/
 }
