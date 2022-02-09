@@ -11,7 +11,7 @@ body{
     margin-bottom:5%;
     margin-top:5%;
     background-color:#C9C0BB;
-    padding:10%;
+    padding:6%;
     border-style:solid;
     border-color:black;
     /*display: flex;*/
@@ -21,7 +21,7 @@ body{
     margin-right:40%;*/
     background-color:#78866B;
     float:left;
-    width:43%;
+    width:40%;
     border-style:solid;
     border-color:black;
     padding:5%;
@@ -31,7 +31,7 @@ body{
 .kaste3 {
     background-color:#78866B;
     float:right;
-    width:43%;
+    width:40%;
     border-style:solid;
     border-color:black;
     padding:5%;
