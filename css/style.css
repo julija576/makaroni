@@ -1,16 +1,16 @@
 body{
-    background-color:#BCC6CC;
+    background-color:#49413F;
 }
-.kastite{
+/*.kastite{
     background-color:#C9C0BB;
     padding:10%;
-}
+}*/
 .kaste1 {
     margin-left:5%;
     margin-right:5%;
     margin-bottom:5%;
     margin-top:5%;
-    background-color:#49413F;
+    background-color:#C9C0BB;
     padding:10%;
     /*display: flex;*/
 }
